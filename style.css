@@ -1,0 +1,10 @@
+body {
+  background-image: url("LJfd6K.jpg");
+  background-repeat: repeat;
+}
+p {
+  font-family : "Avantgarde", sans-serif;
+  border-style: solid;
+  border-color: rgb(155,0,255);
+  border-width: thick;
+}
