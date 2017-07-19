@@ -1,10 +1,17 @@
 body {
-  background-image: url("LJfd6K.jpg");
+  background-image: url("watermelon.jpg");
   background-repeat: repeat;
 }
 p {
-  font-family : "Avantgarde", sans-serif;
+  font-family : "Brush Script Std", Brush Sript MT, cursive;
   border-style: solid;
   border-color: rgb(155,0,255);
   border-width: thick;
+}
+.eleanor{
+  width:50%
+}
+
+.eleanor:hover {
+  width: 100%
 }
